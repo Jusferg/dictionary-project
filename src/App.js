@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo2 from "./logo2.jpg";
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">  
       <div className="container">
        <header className="App-header">
-        <img src={logo} className="App-logo img-fluid"
+        <img src={logo2} className="App-logo img-fluid"
           alt="logo" />
         </header>
         <main>
