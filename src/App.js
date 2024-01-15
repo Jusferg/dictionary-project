@@ -11,7 +11,7 @@ export default function App() {
           alt="logo" />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="wine"/>
           </main>
         <footer className="App-footer">
           Coded by Tia Ferguson

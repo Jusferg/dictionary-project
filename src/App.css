@@ -1,3 +1,12 @@
+body {
+    background: #f9f8fe;
+}
+
+a {
+    color: plum;
+}
+
+
 .App-logo {
     max-width: 200px;
     display: block;
