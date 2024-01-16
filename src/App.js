@@ -14,7 +14,7 @@ export default function App() {
           <Dictionary defaultKeyword="wine"/>
           </main>
         <footer className="App-footer">
-          Coded by Tia Ferguson
+          This project was coded by Tia Ferguson and is <a href="https://scintillating-tapioca-f87bb6.netlify.app/">open-sourced</a> on Github
         </footer>
       </div>  
     </div>
