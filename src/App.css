@@ -1,3 +1,10 @@
+.App {
+    padding: 60px 0 100px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
 body {
     background: #f9f8fe;
 }
@@ -20,4 +27,8 @@ a {
 .App-footer {
     text-align: center;
     margin: 30px 0;
+}
+
+.App-logo {
+    border-radius: 5px;
 }
